@@ -5,7 +5,7 @@ int main()
     printf("Enter a number:");
     scanf("%d",&a);
     if (a==50)
-      printf("Sucess");
+      printf("Success");
     else
       printf("Failure");
     return 0;
